@@ -614,6 +614,7 @@
         <item>@string/shortcut_action_assist</item>
         <item>@string/shortcut_action_voice_search</item>
         <item>@string/shortcut_action_none</item>
+        <item>@string/shortcut_action_torch</item>
     </string-array>
 
     <string-array name="shortcut_action_hwkey_values" translatable="false">
@@ -634,6 +635,7 @@
         <item>**assist**</item>
         <item>**voice_search**</item>
         <item>**null**</item>
+        <item>**torch**</item>
     </string-array>
 
     <!-- Heads up -->
