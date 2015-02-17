@@ -35,7 +35,7 @@
             android:summary="@string/qs_advanced_location_summary"
             android:defaultValue="false" />
 
-        <com.android.settings.slim.SystemSettingSwitchPreference
+        <com.android.settings.slim.SecureSettingSwitchPreference
             android:key="qs_show_brightness_slider"
             android:title="@string/qs_brightness_slider_title"
             android:defaultValue="true"/>
