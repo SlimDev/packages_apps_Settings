@@ -29,7 +29,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.android.internal.util.custom.NavbarUtils;
+import com.android.internal.util.candy.CandyUtils;
 import com.android.settings.R;
 import com.android.settings.SetupWizardUtils;
 import com.android.settings.core.InstrumentedActivity;
