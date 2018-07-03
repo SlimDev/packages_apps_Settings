@@ -24,7 +24,4 @@
     -->
     <string name="config_overridenVendorProductModel" translatable="false"></string>
 
-    <!-- Disable navbar on fingerprint enroll if bottom fingerprint -->
-    <bool name="config_hasBottomFingerprintSensor">false</bool>
-
 </resources>
